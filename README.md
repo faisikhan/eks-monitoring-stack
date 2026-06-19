@@ -1,4 +1,4 @@
-# 🚀 Kubernetes Monitoring Stack on AWS EKS
+# Production Kubernetes Observability Stack on Amazon EKS
 
 A production-style Kubernetes observability setup deployed on Amazon EKS
 using:
