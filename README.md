@@ -354,3 +354,6 @@ eksctl delete cluster --name observability-cluster --region us-east-1
 | Node OS | Bottlerocket (EKS Auto Standard) |
 
 ---
+
+## Creating a simple Dashboard
+<img width="1392" height="778" alt="image" src="https://github.com/user-attachments/assets/a9b49275-109f-4d48-9d7f-8ea0d03db7ca" />
